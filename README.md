@@ -3,7 +3,7 @@
 Full credits to TheC0mpany and DedSec77
 
 # Uploading the file
-* Download the `file_here` and open google drive.
+* Download the `RDP_by_TheC0mpany__DedSec77.ipynb` and open google drive.
 * Upload the file and double click it to open in google colab.
 * You should see something similar to this screen :
 <img src="https://media.discordapp.net/attachments/898953211568873562/911800127079997481/unknown.png?width=806&height=401">
